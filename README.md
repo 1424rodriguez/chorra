@@ -2,6 +2,9 @@
 Non vale para nada
 
 
+![Fallou a imaxe](/gorjeo.png)
+
+
 ## Aprendo Markdown
 
 1.Listas numeras e non numeradas
